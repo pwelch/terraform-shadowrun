@@ -1,6 +1,6 @@
 # Terraform AWS EC2
 
-Sets up an AWS VPC & EC2 instance with [Chummer](https://github.com/chummer5a/chummer5a) for [Shadowrun](https://en.wikipedia.org/wiki/Shadowrun)
+Sets up an AWS VPC & Windows EC2 instance with [Chummer](https://github.com/chummer5a/chummer5a) for [Shadowrun](https://en.wikipedia.org/wiki/Shadowrun)
 
 ## Requirements
 
